@@ -12,7 +12,6 @@ Project for DB specialization
 
 
 
-\## Creating a Database
 
 
 
